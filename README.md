@@ -23,7 +23,7 @@ Designed and developed a dynamic sales analysis dashboard using Microsoft Excel.
 3. Explore the various sheets and charts.
 
 ## Screenshots
-![Dashboard](https://github.com/shabnashabz/Spotify/blob/main/spotify_logo.jpg)](https://github.com/shabnashabz/Dynamic_excel_Dashboard/blob/main/Dynamic%20Dashboard.png)
+![Dashboard](https://github.com/shabnashabz/Dynamic_excel_Dashboard/blob/main/Dynamic%20Dashboard.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
